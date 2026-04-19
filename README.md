@@ -1,61 +1,133 @@
-# 👋 Hi, I'm Ashwin Akash
+<h1 align="center">Hi 👋, I'm Ashwin Akash</h1>
+<h3 align="center">🚀 Aspiring Data Analyst | Python | SQL | Power BI | Django</h3>
 
-🎯 Aspiring Data Analyst | Python | SQL | Power BI
-📍 India
-
----
-
-## 🚀 About Me
-
-* 📊 Passionate about Data Analysis and Data Engineering
-* 🐍 Skilled in Python, SQL, and Data Visualization
-* 📈 Interested in building dashboards and data pipelines
-* 💡 Always learning new technologies
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=650&lines=Data+Analyst+in+Progress;Power+BI+Dashboard+Developer;Python+%7C+SQL+Enthusiast;Turning+Data+into+Insights" />
+</p>
 
 ---
 
-## 🛠️ Skills
+## 🌐 Connect with Me
 
-* Programming: Python, SQL
-* Tools: Power BI, Excel
-* Technologies: Pandas, NumPy
-* Web (Basic): HTML, CSS, Django
+<p align="center">
+<a href="https://linkedin.com/in/ashwin-akash-8314a42b2" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+<a href="mailto:ashwinakash242005@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+<a href="https://my-portfolio-deploy-drab.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel" height="50" />
+</a>
+</p>
 
 ---
 
-## 📂 Projects
+## 🧠 About Me
 
-### 🔹 Employment & Unemployment Analysis (Power BI)
+💡 Aspiring Data Analyst with strong foundation in **SQL, Python, and Data Visualization**
+📊 Skilled in **data cleaning, transformation, and EDA**
+📈 Passionate about building dashboards and extracting insights
+🚀 Goal: Become a Data Engineer / Advanced Data Analyst
 
-* Created interactive dashboards
-* Cleaned and transformed dataset
-* Visualized trends and insights
+---
 
-### 🔹 Django Property Rental Website
+## ⚡ Tech Stack
 
-* Built full-stack web app
-* Login, Signup, Property Listing
-* Used Bootstrap for UI
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,django,html,css,git,github" />
+</p>
 
-### 🔹 Recipe Management System
+---
 
-* Add to cart feature
-* User authentication
-* Built using Django
+## 📊 Data & Analytics Skills
+
+* 📌 Data Cleaning, ETL, Exploratory Data Analysis (EDA)
+* 📌 Feature Engineering & Data Modeling
+* 📌 Power BI (DAX, Dashboard Development)
+* 📌 Excel (PivotTables, VLOOKUP, Charts)
+* 📌 Matplotlib, Seaborn, Tableau
+* 📌 Machine Learning (Supervised & Unsupervised)
+
+---
+
+## 🚀 Projects
+
+### ✈️ Airline Analytics Dashboard (Power BI)
+
+* Cleaned and transformed **10,000+ records** using Excel & Power Query
+* Built **interactive dashboard with KPIs** (Revenue, Trends, Pricing)
+* Found key insight: 📉 **11.42% revenue decline**
+* Identified **Top Airline: Vistara**
+
+---
+
+### 💼 Career Domain Demand & Salary Analysis
+
+* Analyzed job market datasets
+* Built dashboards showing **salary trends & demand**
+* Identified **high-growth tech domains**
+
+---
+
+### 🍔 Recipe Management System (Django)
+
+* Full-stack web application
+* Implemented **CRUD operations**
+* Built responsive UI using HTML & CSS
+
+---
+
+## 💼 Experience
+
+### 👨‍💻 Junior Software Developer
+
+📍 Sisesoft IT Solution | Aug 2024 – Sep 2024
+
+* Developed Django-based web application
+* Designed responsive frontend
+* Improved backend performance and usability
+
+---
+
+## 📚 Education
+
+🎓 B.Tech in AI & Data Science
+📍 Saveetha Engineering College (2023 – Present)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AshwinAkash24&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshwinAkash24&theme=tokyonight" />
+</p>
 
 ---
 
-## 🔗 Connect With Me
+## 🔥 Top Languages
 
-* LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-* Email: [your.email@example.com](mailto:your.email@example.com)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinAkash24&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-⭐️ *Thanks for visiting my profile!*
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/AshwinAkash24/AshwinAkash24/output/snake.svg" />
+</p>
+
+---
+
+## 💬 Quote
+
+<p align="center">
+"Transforming data into decisions 📊"
+</p>
+
+---
+
+⭐️ *From Ashwin Akash — Future Data Engineer*
