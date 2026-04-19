@@ -324,7 +324,7 @@ Machine Learning        █████████████░░░░░�
 
 <br/>
 
-⭐️ **From [Ashwin Akash](https://github.com/AshwinAkash24) — Future Data Engineer**
+⭐️ **From [Ashwin Akash](https://github.com/AshwinAkash24) — Future Data Analyst**
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
