@@ -1,5 +1,5 @@
 <div align="center">
-
+<h1>Ashwin Akash M</h1>
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Analyst+in+Progress+%F0%9F%93%8A;Power+BI+Dashboard+Developer+%F0%9F%93%88;Python+%7C+SQL+Enthusiast+%F0%9F%90%8D;Turning+Raw+Data+into+Insights+%E2%9C%A8;Future+Data+Analyst+%F0%9F%9A%80;Building+Dashboards+that+Speak+%F0%9F%92%AC" alt="Typing SVG" />
