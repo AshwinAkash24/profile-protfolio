@@ -35,7 +35,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,django,html,css,git,github" />
+<img width="1536" height="600" alt="ChatGPT Image Apr 19, 2026, 03_35_16 PM" src="https://github.com/user-attachments/assets/19817216-4364-43d7-bb47-c29e87e15773" />
 </p>
 
 ---
@@ -97,14 +97,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AshwinAkash24&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshwinAkash24&theme=tokyonight" />
-</p>
-
----
 
 ## 🔥 Top Languages
 
@@ -114,13 +106,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/AshwinAkash24/AshwinAkash24/output/snake.svg" />
-</p>
-
----
 
 ## 💬 Quote
 
